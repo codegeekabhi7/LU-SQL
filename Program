@@ -1,0 +1,6 @@
+SELECT Title, Author, PublishedYear
+FROM YourTableName; -- Replace YourTableName with the actual name of your table
+
+
+SELECT Title, Author, PublishedYear
+FROM Books;
